@@ -12,7 +12,7 @@ To publish the content, initial exploration made me pinned down a few ways to ac
 - GoDaddy
 
 ### Preparation..
-I first thought of equipping myself with the basics of web development i.e HTML5, CSS3, and Javascript. After an enormous search, luckily found an interesting youtube channel named [Traversy Media]https://www.youtube.com/user/TechGuyWeb. Thanks to Brad Traversy for creating Crash Courses on the latest web technologies, which are a lot better than many online paid courses.
+I first thought of equipping myself with the basics of web development i.e HTML5, CSS3, and Javascript. After an enormous search, luckily found an interesting youtube channel named [Traversy Media](https://www.youtube.com/user/TechGuyWeb). Thanks to Brad Traversy for creating Crash Courses on the latest web technologies, which are a lot better than many online paid courses.
 
 ### Final call on Medium...
 Now I'm ready to create a basic static web page, its time to eliminate the Medium to publish options. So dropped LinkedIn/Medium due to their restricted user base and Shortlisted WordPress/GoDaddy to create a domain.
