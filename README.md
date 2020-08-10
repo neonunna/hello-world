@@ -12,7 +12,7 @@ In order to publish the content, initial exploration made me pinned down a few w
 - godaddy
 
 ### Preparation..
-I first thought of equipping myself with basics of web development i.e HTML5,CSS3 and Javascript. After enormous search, luckily found an interesting youtube channel named [Traversy Media]https://www.youtube.com/user/TechGuyWeb. Thanks to Brad Traversy for creating Crash Courses on latest web technologies, which are lot better than many online paid courses.
+I first thought of equipping myself with basics of web development i.e HTML5,CSS3 and Javascript. After enormous search, luckily found an interesting youtube channel named [Traversy Media](https://www.youtube.com/user/TechGuyWeb). Thanks to Brad Traversy for creating Crash Courses on latest web technologies, which are lot better than many online paid courses.
 
 ### Final call on Medium..
 Now I'm ready to create a basic static web page, its time to eliminated the Medium to publish options. So dropped linkedin/medium due to their restricted user base and Shortlisted wordpress/godaddy to create a domain.
@@ -26,23 +26,6 @@ I have decided to share my story of this web development struggle with all of yo
 
 ### Twists and Turns..
 It all started with idea of PLM blog, Crash Courses and finally end with github pages. Going forward, I will use my learnings and contribute towards writing technical articles with the knowledge gained in PLM field.  
-```markdown
-Syntax highlighted code block
-
-Thank you all for reading my first ever blog :-)
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
 
 ### Contact
 
