@@ -1,19 +1,35 @@
-## Welcome to Nunna's GitHub Page
+## Hello World ! Welcome to Nunna's First Blog : My story behind publishing web content 
 
-You can use the [editor on GitHub](https://github.com/neonunna/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### It all started with..
+My professional experience is in PLM domain in a tool called Teamcenter. During the past decade, many enthusiastic bloggers contributed in explained the basic architecture and customization concepts. However, there is no extension beyond that. My idea is to create a blog and share information on niche concepts related to Teamcenter and Active Workspace Client which are not documented anywhere else.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Medium to publish..
+In order to publish the content, initial exploration made me pinned down a few ways to achieve that.
 
-### Markdown
+- linkedin
+- medium
+- wordpress
+- godaddy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Preparation..
+I first thought of equipping myself with basics of web development i.e HTML5,CSS3 and Javascript. After enormous search, luckily found an interesting youtube channel named [Traversy Media]https://www.youtube.com/user/TechGuyWeb. Thanks to Brad Traversy for creating Crash Courses on latest web technologies, which are lot better than many online paid courses.
 
+### Final call on Medium..
+Now I'm ready to create a basic static web page, its time to eliminated the Medium to publish options. So dropped linkedin/medium due to their restricted user base and Shortlisted wordpress/godaddy to create a domain.
+Even though they are offering domain names at a cheaper price, dropped out of those since web hosting is totally a new topic for me and I do not want to risk without proper knowledge. With all options being eliminated, back to square one :(
+
+### Last minute surprise..
+With no options left, finally youtube came to rescue again with GitHub providing GitHub pages to publish static content. Leaving no stone unturned, created GitHub account and published my First GitHub page hello-world using markdown files.
+
+### What to publish..
+I have decided to share my story of this web development struggle with all of you.
+
+### Twists and Turns..
+It all started with idea of PLM blog, Crash Courses and finally end with github pages. Going forward, I will use my learnings and contribute towards writing technical articles with the knowledge gained in PLM field.  
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Thank you all for reading my first ever blog :-)
 
 - Bulleted
 - List
@@ -26,12 +42,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neonunna/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
-[Chandra Sekhar Nunna](nunnacsekhar@gmail.com)
+[Chandra Sekhar Nunna](mailto:nunnacsekhar@gmail.com)
