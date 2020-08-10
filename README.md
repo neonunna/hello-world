@@ -1,5 +1,5 @@
-## Hello World! Welcome to Nunna’s First Blog
-## My story behind publishing web content
+## Hello World! Welcome to Nunna’s First Blog 
+## My story behind publishing web content (2 min read)
 
 ### It all started with...
 My professional experience is in the PLM domain in a tool called Teamcenter. During the past decade, many enthusiastic bloggers contributed to explaining the basic architecture and customization concepts. However, there is no extension beyond that. The idea is to create a blog and share information on niche concepts related to Teamcenter(TC) and its web client named Active Workspace Client(AWC) which are not documented anywhere else.
